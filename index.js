@@ -1,18 +1,18 @@
 'use strict';
 const foregroundColor = '#8F93A2';
-const backgroundColor = '#0F111A';
+const backgroundColor = '#1D2540';
 const selectionColor = 'rgba(58, 117, 196, 0.3)';
 const black = '#000000';
-const red = '#E25822';
-const green = '#14B37D';
-const yellow = '#F2F27A';
+const red = '#FF5B45';
+const green = '#3AFFA1';
+const yellow = '#FFE999';
 const blue = '#3A75C4';
-const magenta = '#703FAF';
+const magenta = '#7D81FF';
 const cyan = '#87D3F8';
-const white = '#F3EFE0';
+const white = '#E9E9E9';
 const lightBlack = 'rgba(255, 255, 255, 0.2)';
 const lightWhite = '#FFFFFF';
-const darkBlue = '#0B0D14';
+const darkBlue = '#1D284B';
 const lightBlue = '#131622';
 
 exports.decorateConfig = config => {
