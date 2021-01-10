@@ -1,0 +1,21 @@
+{
+  "name": "hyper-cyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swyssauro/hyper-cyan.git"
+  },
+  "keywords": [],
+  "files": ["index.js"],
+  "author": "swyssauro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swyssauro/hyper-cyan/issues"
+  },
+  "homepage": "https://github.com/swyssauro/hyper-cyan#readme"
+}
